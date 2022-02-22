@@ -1,0 +1,4 @@
+ Hi {name},
+ what can do this bot for you?
+ -this bot can make easy and short your learning journey.
+ -bot can cathegorize your instruction media.
